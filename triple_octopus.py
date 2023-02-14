@@ -13,7 +13,7 @@ if resultado==asignaturas[1]:
   st.baloons()
 if resutado==asignaturas[2]:
   st.success("Buena elección")
-if resultado==asignaturas[3]
+if resultado==asignaturas[3]:
   st.error("incorrecto")
-if resultado==asignaturas[4]
+if resultado==asignaturas[4]:
   st.success("Biennnnn")
