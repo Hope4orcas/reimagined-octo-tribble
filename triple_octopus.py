@@ -10,7 +10,7 @@ st.write(resultado)
 if resultado==asignaturas[0]:
   st.warning("No")
 if resultado==asignaturas[1]:
-  st.baloons()
+  st.balloons()
 if resultado==asignaturas[2]:
   st.success("Buena elección")
 if resultado==asignaturas[3]:
