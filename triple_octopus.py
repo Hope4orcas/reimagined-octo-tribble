@@ -11,7 +11,7 @@ if resultado==asignaturas[0]:
   st.warning("No")
 if resultado==asignaturas[1]:
   st.baloons()
-if resutado==asignaturas[2]:
+if resultado==asignaturas[2]:
   st.success("Buena elección")
 if resultado==asignaturas[3]:
   st.error("incorrecto")
